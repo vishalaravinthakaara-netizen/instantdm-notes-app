@@ -77,3 +77,24 @@ SQLite is created automatically at `server/data/notes.sqlite` the first time the
 - Add pagination if the notes collection becomes large.
 - Add accessible keyboard shortcuts and richer editor support.
 - Add authentication and per-user data isolation if the app becomes multi-user.
+
+
+
+
+
+## What I'd improve with more time.
+
+- **Authentication and authorization:** Add user accounts and ensure each user can access only their own notes and attachments.
+- **Secure file storage:** Move uploaded files to secure cloud storage, add file-content validation, and implement access controls.
+- **Testing:** Add automated unit and integration tests for API endpoints, validation, database operations, and file uploads.
+- **User experience:** Improve responsive layouts, add confirmation dialogs, and provide clearer feedback for upload progress and API errors.
+- **Scalability:** Introduce pagination for notes, improve database query efficiency, and prepare the application for deployment.
+- **Deployment and monitoring:** Deploy the application and add structured logging, monitoring, and error tracking.
+
+## AI Assistance Disclosure
+
+AI assistance was used during development for initial project scaffolding, debugging, implementation guidance, and documentation refinement.
+
+I reviewed and tested the generated implementation, made adjustments during development, and verified the application's functionality locally.
+
+AI assistance was used as a development aid. I take responsibility for understanding the implementation and explaining the architecture, API endpoints, database design, validation, and file attachment handling.
