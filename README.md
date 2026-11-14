@@ -98,3 +98,9 @@ AI assistance was used during development for initial project scaffolding, debug
 I reviewed and tested the generated implementation, made adjustments during development, and verified the application's functionality locally.
 
 AI assistance was used as a development aid. I take responsibility for understanding the implementation and explaining the architecture, API endpoints, database design, validation, and file attachment handling.
+
+## Project Walkthrough
+
+A video demonstration of the application, covering its main features, API implementation, database structure, and attachment handling.
+
+**[Watch the Project Walkthrough](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
